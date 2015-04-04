@@ -1,9 +1,10 @@
 ﻿CACHE MANIFEST
-#1428068414
+#1428121923
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
 images/castlegametiles.png
+images/castlebgtiles.png
 images/linksprite-sheet0.png
 images/linksword-sheet0.png
 images/linksword-sheet1.png
@@ -12,6 +13,7 @@ images/linkwoodshield-sheet1.png
 images/robinsleeps-sheet0.png
 images/leftarrow-sheet0.png
 images/rightarrow-sheet0.png
+images/jumparrow-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
