@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1428805182
+#1428942422
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,6 +26,8 @@ images/downarrow-sheet0.png
 images/testsprite-sheet0.png
 images/castlebackground-sheet0.png
 images/dungeongametiles.png
+images/robinwindow-sheet0.png
+images/dungeonbgtiles.png
 icon-16.png
 icon-32.png
 icon-114.png
